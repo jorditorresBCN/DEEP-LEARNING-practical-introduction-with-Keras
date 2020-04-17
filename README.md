@@ -4,7 +4,7 @@
 - [Chapter 4](https://github.com/jorditorresBCN/DEEP-LEARNING-practical-introduction-with-Keras/blob/master/Some-basics-about-learning-process.ipynb) 
 - [Chapter 6](https://github.com/jorditorresBCN/DEEP-LEARNING-practical-introduction-with-Keras/blob/master/Convolutional-neural-networks.ipynb) 
 
-#### You can acces a [freely available on-line copy](https://www.jorditorres.org/DeepLearning) 
+#### You can acces a [freely available on-line copy](https://www.torres.ai/DeepLearning) 
 
 
 [![solarized dualmode](https://github.com/jorditorresBCN/DEEP-LEARNING-practical-introduction-with-Keras/blob/master/cover-DL-Jordi-Torres.png)](#features)
